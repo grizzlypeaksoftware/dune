@@ -1,7 +1,3 @@
-Sure! Here's the updated draft of your README file, incorporating the new mobile controls and mentioning the screenshot you'll add:
-
----
-
 # Dune: Spice Collector
 
 ![Dune: Spice Collector Screenshot](./assets/screen-shot.png)
@@ -17,6 +13,10 @@ Sure! Here's the updated draft of your README file, incorporating the new mobile
 - **Time Limit**: You have 60 seconds to collect as much spice as you can.
 - **Score and Timer**: Keep track of your current score and the time remaining on the screen.
 - **Mobile and Desktop Support**: Play with keyboard controls on desktops or touch controls on mobile devices.
+
+## To Play the game
+
+To play the game online: [Dune: Spice Collector](https://grizzlypeaksoftware.github.io/dune/)
 
 ## Getting Started
 
